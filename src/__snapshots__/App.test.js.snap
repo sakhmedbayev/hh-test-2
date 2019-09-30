@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`elements render properly renders according to the snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="sc-bZQynM hvLcDR"
+  >
+    <h1
+      data-testid="h1tag"
+    >
+      Hilton Hotel rooms online check-in
+    </h1>
+    <form
+      class="sc-gzVnrw ibZhkv"
+      role="check-in form"
+    >
+      <div
+        class="sc-htoDjs fObrRs"
+        role="check-in room form"
+      >
+        <div
+          aria-disabled="false"
+          class="sc-ifAKCX fljDJW"
+          data-testid="room-1-widget-container"
+          role="check-in room number 1"
+        >
+          <span
+            class="sc-EHOje hgpcZa"
+            data-testid="room-1-status-label"
+          >
+            Room 1
+          </span>
+          <div
+            class="sc-bxivhb emBooZ"
+          >
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Adults-(18+)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Adults-(18+)"
+              >
+                Adults 
+                <br />
+                 (18+)
+              </label>
+              <select
+                data-testid="room-dropdown-1-Adults"
+                id="room-dropdown-Adults-(18+)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Adults-1-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Adults-1-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Children-(0-17)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Children-(0-17)"
+              >
+                Children 
+                <br />
+                 (0-17)
+              </label>
+              <select
+                data-testid="room-dropdown-1-Children"
+                id="room-dropdown-Children-(0-17)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Children-1-0"
+                  value="0"
+                >
+                  0
+                </option>
+                <option
+                  data-testid="option-Children-1-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Children-1-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-disabled="true"
+          class="sc-ifAKCX dFuSiM"
+          data-testid="room-2-widget-container"
+          role="check-in room number 2"
+        >
+          <label
+            aria-label="Room 2"
+            class="sc-bdVaJa iCGeOX"
+            data-testid="room-2-status-label"
+            for="roomStatus-2"
+          >
+            <input
+              data-testid="room-2-checkbox"
+              id="roomStatus-2"
+              name="room-status"
+              type="checkbox"
+            />
+            <span
+              style="margin-left: 5px;"
+            >
+              Room 2
+            </span>
+          </label>
+          <div
+            class="sc-bxivhb emBooZ"
+          >
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Adults-(18+)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Adults-(18+)"
+              >
+                Adults 
+                <br />
+                 (18+)
+              </label>
+              <select
+                data-testid="room-dropdown-2-Adults"
+                disabled=""
+                id="room-dropdown-Adults-(18+)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Adults-2-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Adults-2-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Children-(0-17)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Children-(0-17)"
+              >
+                Children 
+                <br />
+                 (0-17)
+              </label>
+              <select
+                data-testid="room-dropdown-2-Children"
+                disabled=""
+                id="room-dropdown-Children-(0-17)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Children-2-0"
+                  value="0"
+                >
+                  0
+                </option>
+                <option
+                  data-testid="option-Children-2-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Children-2-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-disabled="true"
+          class="sc-ifAKCX dFuSiM"
+          data-testid="room-3-widget-container"
+          role="check-in room number 3"
+        >
+          <label
+            aria-label="Room 3"
+            class="sc-bdVaJa iCGeOX"
+            data-testid="room-3-status-label"
+            for="roomStatus-3"
+          >
+            <input
+              data-testid="room-3-checkbox"
+              id="roomStatus-3"
+              name="room-status"
+              type="checkbox"
+            />
+            <span
+              style="margin-left: 5px;"
+            >
+              Room 3
+            </span>
+          </label>
+          <div
+            class="sc-bxivhb emBooZ"
+          >
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Adults-(18+)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Adults-(18+)"
+              >
+                Adults 
+                <br />
+                 (18+)
+              </label>
+              <select
+                data-testid="room-dropdown-3-Adults"
+                disabled=""
+                id="room-dropdown-Adults-(18+)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Adults-3-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Adults-3-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Children-(0-17)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Children-(0-17)"
+              >
+                Children 
+                <br />
+                 (0-17)
+              </label>
+              <select
+                data-testid="room-dropdown-3-Children"
+                disabled=""
+                id="room-dropdown-Children-(0-17)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Children-3-0"
+                  value="0"
+                >
+                  0
+                </option>
+                <option
+                  data-testid="option-Children-3-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Children-3-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-disabled="true"
+          class="sc-ifAKCX dFuSiM"
+          data-testid="room-4-widget-container"
+          role="check-in room number 4"
+        >
+          <label
+            aria-label="Room 4"
+            class="sc-bdVaJa iCGeOX"
+            data-testid="room-4-status-label"
+            for="roomStatus-4"
+          >
+            <input
+              data-testid="room-4-checkbox"
+              id="roomStatus-4"
+              name="room-status"
+              type="checkbox"
+            />
+            <span
+              style="margin-left: 5px;"
+            >
+              Room 4
+            </span>
+          </label>
+          <div
+            class="sc-bxivhb emBooZ"
+          >
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Adults-(18+)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Adults-(18+)"
+              >
+                Adults 
+                <br />
+                 (18+)
+              </label>
+              <select
+                data-testid="room-dropdown-4-Adults"
+                disabled=""
+                id="room-dropdown-Adults-(18+)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Adults-4-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Adults-4-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+            <div
+              class="sc-bwzfXH idzafn"
+              role="room-dropdown-Children-(0-17)"
+            >
+              <label
+                class="sc-htpNat kOrLIv"
+                for="room-dropdown-Children-(0-17)"
+              >
+                Children 
+                <br />
+                 (0-17)
+              </label>
+              <select
+                data-testid="room-dropdown-4-Children"
+                disabled=""
+                id="room-dropdown-Children-(0-17)"
+                name="number-of-guest-status"
+              >
+                <option
+                  data-testid="option-Children-4-0"
+                  value="0"
+                >
+                  0
+                </option>
+                <option
+                  data-testid="option-Children-4-1"
+                  value="1"
+                >
+                  1
+                </option>
+                <option
+                  data-testid="option-Children-4-2"
+                  value="2"
+                >
+                  2
+                </option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        type="submit"
+      >
+        Submit
+      </button>
+      <button>
+        Reset
+      </button>
+    </form>
+  </main>
+</DocumentFragment>
+`;
