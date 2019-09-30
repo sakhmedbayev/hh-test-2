@@ -304,8 +304,6 @@ const reducer = (state, action) => {
   }
 };
 
-// 1. include prop types
-
 function init() {
   const data = JSON.parse(localStorage.getItem("roomStatuses"));
   const initialData = initialState.roomStatuses.map(room => {
